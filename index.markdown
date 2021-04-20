@@ -8,6 +8,7 @@ This site hosts the documentation for the University of Colorado's Github Enterp
 
 ## For End Users
 - [University of Colorado Best Practices on Github](best-practices)
+- [Frequently Asked Questions](end-user-faq)
 - [University of Colorado Boulder Instructions](CUBoulder/sso)
 
 ## For Organzation Administrators
