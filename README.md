@@ -6,5 +6,5 @@ The documentation contained here makes use of [jekyll](https://jekyllrb.com) in 
 
 However, for the truly busy, here is what you need to do in order to create a new page:
 1. Copy an existing page and modify as needed paying careful attention to the metadata located between the '---' symbols, this is known as the [Front Matter](https://jekyllrb.com/docs/front-matter/)
-1. Write your documentation use markdown syntax, specifically [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) (GFM).
+1. Write your documentation using markdown syntax, specifically [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) (GFM).
 1. Keep it simple, very simple, we probably do not need anything fancy on here.
