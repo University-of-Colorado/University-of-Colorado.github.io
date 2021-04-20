@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CU Boulder's End User Instructions
-permalink: /CUBoulder/sso
+title: University of Colorado Boulder's Login Instructions
+permalink: /UCBoulder/sso
 ---
 
 This documentation contains the steps needed for any University of Colorado Boulder Faculty, Staff, Employee, or Student to take in order to gain access to [University of Colorado Boulder's Github Enterprise organization](https://github.com/UCBoulder).
