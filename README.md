@@ -1,6 +1,6 @@
-This repository hosts the documentation for the UNiversity of Colorado's Github Enterprise agreement.
+This repository hosts the documentation for the University of Colorado's Github Enterprise agreement.
 
-The philosophy here is to host this code as [Github Pages](https://docs.github.com/en/pages) so that it is in neutral territory. If needed in the future, it can obviously move elsewhere. As well, try to keep this simple, it should not be hard for almost anyone to create a page using markdown and get some documentation up quickly. 
+The philosophy here is to host this code as [Github Pages](https://docs.github.com/en/pages) so that it is in neutral territory. If needed in the future, it can obviously move elsewhere. As well, try to keep this simple, it should not be hard for almost anyone to create a page using markdown and get some documentation up quickly.
 
 The documentation contained here makes use of [jekyll](https://jekyllrb.com) in order to be statically rendered into HTML. Github itself does all of the heavy lifting in terms of running jekyll, and there is [good documentation on using Github Pages with jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
 
