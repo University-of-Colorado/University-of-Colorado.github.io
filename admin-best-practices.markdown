@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Admin Best Practices
-permalink: best-practices
+permalink: admin-best-practices
 ---
 This documentation contains a set of recommended best practices for using Github inside of the University of Colorado Enterprise agreement.
 
