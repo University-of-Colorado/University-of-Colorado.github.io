@@ -10,6 +10,7 @@ https://colorado.service-now.com/u_gnrl_req.do?sys_id=-1&sysparm_query=short_des
 ## For End Users
 - [Best Practices](best-practices)
 - [Frequently Asked Questions](end-user-faq)
+- [Transferring Repositories Between Organizations](transfer-repositories)
 - [University of Colorado Boulder Login Instructions](UCBoulder/sso)
 
 ## For Organzation Administrators
