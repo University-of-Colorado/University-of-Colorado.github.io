@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bitbucket to GitHub
-permalink: end-user-faq
+permalink: bitbucket-to-github
 ---
 Moving your code from Bitbucket to Github is a fairly straightforward process. However, be aware that Bitbucket metadata, such as PR discussions will not move with your code. You will simply get your code along with the entire history and nothing more.
 
