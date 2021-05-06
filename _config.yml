@@ -26,6 +26,7 @@ url: "University-of-Colorado.github.io" # the base hostname & protocol for your 
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 header_pages:
   - index.markdown
