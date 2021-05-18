@@ -16,5 +16,7 @@ https://colorado.service-now.com/u_gnrl_req.do?sys_id=-1&sysparm_query=short_des
 
 ## For Organzation Administrators
 - [Best Practices](admin-best-practices)
-- [Configuring SAML SSO](admin-saml-sso)
 - [Frequently Asked Questions](admin-faq)
+
+## For Enterprise Administrators
+- [Enterprise Policy Guidance](enterprise-policy-guidance)
