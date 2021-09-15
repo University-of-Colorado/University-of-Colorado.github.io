@@ -1,10 +1,10 @@
 ---
 layout: page
-title: University of Colorado Github Enterprise
+title: University of Colorado GitHub Enterprise
 permalink: /
 ---
 
-This site hosts the documentation for the University of Colorado's Github Enterprise agreement. Each campus manages it's own Github organization, however the core of Github Enterprise is managed by the Platform Engineering team at the University of Colorado Boulder. If you wish to contact the Platform Engineering team please [email us](mailto:help@colorado.edu?subject=[Github]%20Route%20to%20Platform%20Engineering).
+This site hosts the documentation for the University of Colorado's GitHub Enterprise agreement. Each campus manages it's own GitHub organization, however the core of GitHub Enterprise is managed by the Platform Engineering team at the University of Colorado Boulder. If you wish to contact the Platform Engineering team please [email us](mailto:help@colorado.edu?subject=[GitHub]%20Route%20to%20Platform%20Engineering).
 
 ## For End Users
 - [Creating Service Accounts](service-accounts)

@@ -19,7 +19,7 @@ No, the University will only know your github username, and of course any public
 
 ## GitHub Quotas:
 ### Are there limitations on the size of my repository?
-Please see (here)[https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github].
+Please see [here](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github).
 
-### Can (Git LFS)[https://git-lfs.github.com] be used with GitHub?
+### Can [Git LFS](https://git-lfs.github.com) be used with GitHub?
 Though you can technically use LFS with GitHub, our quota is so small (1GB) that it is not really useful. You can certainly use LFS if you host the files elsewhere, but hosting large files on GitHub is not really a possibility with the University's current plan.
