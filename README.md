@@ -1,4 +1,4 @@
-This repository hosts the documentation for the University of Colorado's Github Enterprise agreement.
+This repository hosts the documentation for the University of Colorado's Github Enterprise agreement and is published on the web at https://university-of-colorado.github.io/.
 
 The philosophy here is to host this documentation as [Github Pages](https://docs.github.com/en/pages) so that it is in neutral territory. If needed in the future, it can obviously move elsewhere. As well, try to keep this simple, it should not be hard for almost anyone to create a page using markdown and get some documentation up quickly.
 
