@@ -14,7 +14,7 @@ This site hosts the documentation for the University of Colorado's GitHub Enterp
 - [Migrating From Bitbucket to GitHub](bitbucket-to-github)
 - [University of Colorado Boulder Login Instructions](UCBoulder/sso)
 
-## For Organzation Administrators
+## For Organization Administrators
 - [Best Practices](admin-best-practices)
 - [Frequently Asked Questions](admin-faq)
 
