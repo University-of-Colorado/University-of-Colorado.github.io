@@ -17,4 +17,4 @@ Github has the concept of [Github Actions](https://docs.github.com/en/actions/le
 In addition, not all action minutes are created equal. If running actions on a MacOS system each wall minute counts as 10 action minutes, similarly for windows each wall minute counts as 2 action minutes, [more info here](https://docs.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions). As such, please try to limit your Github Actions time to Linux based runners if at all possible.
 
 ## Security
-Security of your code and your repositories is your responsibility, please avail yourself of the [Github Security documentation](https://docs.github.com/en/code-security/getting-started/about-securing-your-repository).
+Security of your code and your repositories is your responsibility, please avail yourself of the [Github Security documentation](https://docs.github.com/en/code-security/getting-started/securing-your-repository).
