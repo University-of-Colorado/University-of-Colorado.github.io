@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enterprise Policy Guidance
-permalink: enterprise-poicy-guidance
+permalink: enterprise-policy-guidance
 ---
 This document aims to contain guidance for setting policy at the enterprise level.
 
