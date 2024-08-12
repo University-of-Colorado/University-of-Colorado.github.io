@@ -32,21 +32,22 @@ individual GitHub users can upgrade to a paid plan (for Codespaces) and/or
 [purchase Copilot as an individual][copilot-plans], and then use these features
 when working on repositories within our enterprise.
 
-Students and teachers who have registered with GitHub and individuals who have
-paid for these features can use them when working on repositories within our
-enterprise license.[^1] Of course, it's also fine to use these features in
-personally-owned repositories or repositories that are part of an organization
-outside our enterprise.
+In general, students and teachers who have registered with GitHub and
+individuals who have paid for these features can use them when working on
+repositories within our enterprise license. However, this may depend on
+organization settings - see the [Questions][#questions?] section below if you
+are unsure about this.
 
-[^1]: This depends on organization settings.
+Of course, it's also fine to use these features in personally-owned
+repositories or repositories that are part of an organization outside our
+enterprise.
 
 ## Questions?
-The GitHub Enterprise license is shared among all the CU campuses and usage and
-practices may differ.  Please reach out to your campus GitHub administrators or
-organization owner with questions.
+The GitHub Enterprise license is shared among all the CU campuses. Please reach
+out to your campus GitHub administrators with questions.
 
-CU Boulder users can [create a support case for Platform
-Engineering][ucb-support].
+CU Boulder users can [create a support case for the OIT Platform Engineering
+team][ucb-support].
 
 [codespaces-pricing]: https://github.com/features/codespaces#pricing
 [copilot-plans]: https://github.com/features/copilot/plans
