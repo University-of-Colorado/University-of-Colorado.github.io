@@ -35,12 +35,29 @@ when working on repositories within our enterprise.
 In general, students and teachers who have registered with GitHub and
 individuals who have paid for these features can use them when working on
 repositories within our enterprise license. However, this may depend on
-organization settings - see the [Questions][#questions?] section below if you
+organization settings - see the [Questions](#questions) section below if you
 are unsure about this.
 
 Of course, it's also fine to use these features in personally-owned
 repositories or repositories that are part of an organization outside our
 enterprise.
+
+### Caution
+
+As an artificial intelligence (AI) tool, caution is required when using
+GitHub Copilot - careful steps may need to be taken to ensure that you
+understand how it integrates with your environment, makes coding suggestions,
+and whether content from your repository may be automatically shared with
+GitHub. This can be complicated.
+
+See the following GitHub documentation pages for additional details:
+
+  - [Configuring GitHub Copilot in your environment][configure-environment-copilot]
+  - [Excluding content from GitHub Copilot][excluding-content-copilot]
+
+Also, please refer to the CU System [Guidance for Artificial Intelligence
+Tools Use][cu-ai-guidance] web page and additional AI guidance and security
+resources for your specific CU campus.
 
 ## Questions?
 The GitHub Enterprise license is shared among all the CU campuses. Please reach
@@ -50,8 +67,11 @@ CU Boulder users can [create a support case for the OIT Platform Engineering
 team][ucb-support].
 
 [codespaces-pricing]: https://github.com/features/codespaces#pricing
+[configure-environment-copilot]: https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/configuring-github-copilot-in-your-environment
 [copilot-plans]: https://github.com/features/copilot/plans
+[cu-ai-guidance]: https://www.cu.edu/service-desk/how-guides/guidance-artificial-intelligence-tools-use
 [enterprise-plan]:https://docs.github.com/en/get-started/learning-about-github/githubs-plans#github-enterprise
+[excluding-content-copilot]: https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/setting-policies-for-copilot-in-your-organization/excluding-content-from-github-copilot
 [github-education-apply]: https://education.github.com/discount_requests/application
-[github-education-benfits]: https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education
+[github-education-benefits]: https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education
 [ucb-support]: mailto:oithelp@colorado.edu?subject=[GitHub]%20Route%20to%20Platform%20Engineering

@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "University-of-Colorado.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
